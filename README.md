@@ -1,2 +1,2 @@
-# tip_Calculator
-This project is a tip Calculator.This is a very small project in the route of learnning python.I am making this project.
+# 100_day_of_python
+This is the code i am learning from udemy. Basically I am learnig python and making project too by the help of chat gpt. Gemini and chat gpt are suggesting what u can make on these topics u had learnt.
